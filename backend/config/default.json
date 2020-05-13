@@ -1,0 +1,6 @@
+{
+    "port":5000,
+    "mongoUri":"mongodb://localhost:27017/admins",
+    "jwtSecret":"asdddddddddd123123gdfsf",
+    "baseUrl":"http://localhost:5000"
+}
